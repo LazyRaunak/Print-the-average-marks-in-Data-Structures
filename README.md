@@ -1,0 +1,3 @@
+# Print-the-average-marks-in-Data-Structures
+
+An input file called input.txt consists of data in the following format:  22 Data Structures 45 23 Maths 2 52 23 Maths 3 57 22 English 51 26 Data Structures 72 23 Data Structures 63 26 English 81 Each line consists of three fields "Student ID," "Subject," and "Marks." "Student ID" and "Marks" are integers and "Subject" is a string that does not contain '|' or newlines (but might contain digits). There can be any number of students and up to 6 subjects. You have to read this file, and print the average marks in "Data Structures," across all students.  Thus for the above file, the output would be:  60
